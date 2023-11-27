@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Hello. I'm Jami Gibbs.</title>
+ <title>Hello, I'm Seunghun</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-11-27T13:35:19+09:00</updated>
+ <updated>2023-11-27T14:33:03+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Jami Gibbs</name>
+   <name>Seunghun Yu</name>
    <email></email>
  </author>
 
