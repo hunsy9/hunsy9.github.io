@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: hunsy # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 유승훈의 기록 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,10 +26,13 @@ description: >- # used by seo meta and the atom feed
 url: "https://hunsy9.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: hunsy9 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
+
+linkedin:
+  username: hunsy9
 
 social:
   # Change to your full name.
@@ -39,7 +42,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/hunsy9 # change to your github homepage
+    - https://www.linkedin.com/in/hunsy9
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
