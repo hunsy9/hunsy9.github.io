@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: hunsy # the main title
 
-tagline: 유승훈의 기록 # it will display as the sub-title
+tagline: 유승훈의 log # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
