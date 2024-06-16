@@ -1,5 +1,5 @@
 ---
-title:  Minimum Depth of Binary Tree
+title: "[LeetCode] Minimum Depth of Binary Tree"
 date: 2024-02-15 11:48:00 +/-TTTT
 categories: [Algorithm, LeetCode]
 tags: [DFS, Binary Tree]

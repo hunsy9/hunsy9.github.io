@@ -1,6 +1,6 @@
 ---
-title: First Letter to Appear Twice
-date: 2024-02-13 11:48:00 +/-TTTT
+title: "[LeetCode] First Letter to Appear Twice"
+date: 2024-02-12 11:48:00 +/-TTTT
 categories: [Algorithm, LeetCode]
 tags: [Hashing]
 image:

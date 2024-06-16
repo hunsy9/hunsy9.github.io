@@ -1,5 +1,5 @@
 ---
-title: Check if the Sentence is Pangram
+title: "[LeetCode] Check if the Sentence is Pangram"
 date: 2024-02-14 11:48:00 +/-TTTT
 categories: [Algorithm, LeetCode]
 tags: [Hashing]     # TAG names should always be lowercase

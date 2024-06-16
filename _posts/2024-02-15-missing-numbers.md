@@ -1,5 +1,5 @@
 ---
-title:  Missing Numbers
+title:  "[LeetCode] Missing Numbers"
 date: 2024-02-15 11:48:00 +/-TTTT
 categories: [Algorithm, LeetCode]
 tags: [Hashing]

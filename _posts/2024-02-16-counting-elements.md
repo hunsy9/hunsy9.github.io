@@ -1,5 +1,5 @@
 ---
-title: Counting Elements
+title: "[LeetCode] Counting Elements"
 date: 2024-02-16 11:48:00 +/-TTTT
 categories: [Algorithm, LeetCode]
 tags: [Two Pointer]     # TAG names should always be lowercase
